@@ -9,6 +9,7 @@ volatile boolean btn_press=0;
 volatile uint32_t timer;
 #define btn_new 500
 #define btn_add 500
+#define hotfix2
 
 //********************************
 void setup() 
