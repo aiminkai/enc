@@ -8,7 +8,7 @@ volatile int enc_rotation=0, btn_enc_rotate=0;
 volatile boolean btn_press=0;
 volatile uint32_t timer;
 #define btn_new 500
-
+#define btn_add 500
 
 //********************************
 void setup() 
